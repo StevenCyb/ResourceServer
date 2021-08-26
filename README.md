@@ -1,6 +1,7 @@
 # ResourceServer
 This module provides a handler to serve resource (files).
 I started the project for fun and because of the problems between *Gorilla-Mux* and *FileServer*.
+Use this command to get the module `go get github.com/StevenCyb/ResourceServer`.
 
 ## Example using http
 ```go
